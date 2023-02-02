@@ -1,0 +1,13 @@
+line 3 Importing random module. We need this for random.randint function 
+
+line 7 creating a list that has 7 elements and each element will be the value 0.
+[0] * 7 means we are going to repeat this list element 7 times
+
+line 11 I added 56 because otherwise it just prints 0s if you leave 0, 0. 
+
+line 19 and 20 I am using an if statement to say if the counter index is not equal to 6 then 
+print a comma and a space. The end argumenet appends nothing to the end of the line. 
+
+
+
+
